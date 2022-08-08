@@ -1,0 +1,18 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Brick_floor
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd metal_mesh_diffuse.jpg
+map_Ka metal_mesh_ao.jpg
+map_Ks metal_mesh_spec.jpg
+map_Ns metal_mesh_rough.jpg
+map_Bump metal_mesh_normal.jpg
+map_d metal_mesh_opacity.jpg

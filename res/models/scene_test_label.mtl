@@ -1,0 +1,12 @@
+# Blender MTL File: 'pgr_scene.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.826241 0.826241 0.826241
+Ke 0.895622 1.000000 0.407379
+Ni 1.450000
+d 1.000000
+illum 2

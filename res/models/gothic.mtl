@@ -1,0 +1,14 @@
+# Blender MTL File: 'misc.blend'
+# Material Count: 1
+
+newmtl Marble
+Ns 200
+Ka 0.05 0.05 0.05
+Kd 0.98 0.98 0.98
+Ks 0.9 0.9 0.9
+d 1
+illum 2
+map_Kd marble_diffuse.jpg
+map_Ns marble_rough.jpg
+map_Ka marble_occlusion.jpg
+map_Bump marble_normal.jpg

@@ -1,0 +1,31 @@
+# Blender MTL File: 'pgr_scene.blend'
+# Material Count: 2
+
+newmtl metal_wall
+Ns 19.024436
+Ka 0.624113 0.624113 0.624113
+Kd 0.800000 0.800000 0.800000
+Ks 0.684397 0.684397 0.684397
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd factory_wall_diff.jpg
+map_Bump factory_wall_nor.jpg
+map_Ks factory_wall_spec.jpg
+map_Ns factory_wall_rough.jpg
+map_Ka factory_wall_ao.jpg
+
+newmtl normal_wall
+Ns 42.111813
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.187943 0.187943 0.187943
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wall_tiles_diff.jpg
+map_Bump wall_tiles_normal.jpg
+map_Ka wall_tiles_ao.jpg
+map_Ns wall_tiles_rough.jpg
